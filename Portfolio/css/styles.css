@@ -1,0 +1,149 @@
+body, html{
+    height: 100%;
+    margin: px;
+
+}
+
+body{
+    background-color:black;
+
+}
+
+nav li{
+display:inline;
+margin: 100px;
+
+}
+
+nav ul{
+    background-color: black;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+    padding: 20px;
+}
+
+nav{
+    display:block;
+    color: aliceblue;
+   
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+
+
+    
+}
+ nav a:hover{
+    color:bisque
+
+ }
+
+ .hero-image{
+    background-image:url("../images/ocean-beach-water-sea.jpg");
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    position:relative;
+    padding-right: 500px;
+ }
+
+ .hero-text{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+#main{
+    width: 74%;
+    float: right;
+    height: 100%;
+    padding:10px;
+
+}
+
+#side{
+    width: 22%;
+    float: left;
+    height: 100%;
+    padding: 5px;
+    padding-top: 10px;
+    padding-left: px;
+
+
+}
+
+#mepic{
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+#profile{
+    text-align: center;
+}
+
+#side article ul{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+#profile h2{
+display: inline;
+}
+
+#details{
+    margin-left: 0px;
+    text-align: center;
+
+}
+
+.side{
+    padding: 17.686px;
+    margin-bottom: px;
+    border-radius: px;
+
+}
+.main-articles{
+    padding: 53px;
+}
+
+.side{
+    background-color:white;
+    text-align: center;
+}
+.main-articles{
+    background-color: white;
+}
+
+form{
+    margin-top: 20px;
+}
+
+textarea, input{
+background-color: ;
+border-radius: 5px;
+padding: 5px;
+margin: 5px;
+
+
+}
+
+footer{
+    bottom:0px;
+    width: 100%;
+}
+
+main{
+    overflow: auto;
+}
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+}
